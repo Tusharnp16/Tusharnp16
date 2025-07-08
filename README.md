@@ -1,5 +1,6 @@
 <!-- GitHub README for Parmar Tushar -->
-<img src="https://github.com/Tusahrnp16/Tusharnp16/blob/main/banner.png" alt="Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Tusahrnp16/Tusharnp16/main/banner.png" alt="Banner" width="100%" />
+
 
 
 <h1 align="center">Hi 👋, I'm Tushar Parmar</h1>
