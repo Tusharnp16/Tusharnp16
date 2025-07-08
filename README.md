@@ -14,7 +14,7 @@
 
 ## 🔥 About Me
 
-- 🎓 MCA Student | Roll No: `24PG110309`
+- 🎓 MCA Student | CSF
 - 🧠 Currently diving into **Java, Spring Boot, and Flutter**
 - 🚀 Building full-stack apps & exploring Firebase + AI integrations
 - 💬 Ask me about **Java, SQL, Firebase, Spring Boot, or Flutter**
