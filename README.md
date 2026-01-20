@@ -44,8 +44,9 @@
 ---
 
 ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=darkhub&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Tusharnp16&theme=algolia&margin-w=15&margin-h=15)
 
 ---
 
